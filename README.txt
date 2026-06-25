@@ -1,1 +1,0 @@
-فایل index.html را باز کنید یا run-local.bat را اجرا کنید و سپس به http://localhost:8080 بروید.
